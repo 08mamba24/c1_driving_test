@@ -1,0 +1,15 @@
+1.ACC 自适应巡航  Adaptive Cruise Control
+2.LDW 车道偏离预警系统 Lane Departure Warning System
+3.FCW 前方碰撞预警系统 Forward Collision Warning 
+4.CCS 定速巡航系统 Cruise Control System
+5.EBD 电子制动力分配系统 Electric Brakeforce Distribution
+6.TSR 汽车安全系统的交通标志识别系统 Traffic Sign Recogni-tion
+7.EBA 电子控制制动辅助系统 Electronic Brake Assist 
+8.BSD 盲区监测 Blind Spot Detection
+9.BSA 盲点辅助系统 Blind Spot Assist
+10.ALC  车辆自动变道辅助系统 Auto Lane Change）
+11.AEB自动紧急制动系统 Autonomous Emergency Braking
+12.ESP 车身电子稳定系统 Electronic Stability Program
+13.TMC 交通信息频道  Traffic Message Channel 实时交通和天气状况
+14.AFS 自适应前大灯系统  Adaptive Front-Lighting System
+15.TCS/ASR/TRC 牵引力控制系统 Traction Control System
